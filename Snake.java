@@ -9,7 +9,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.Point;
-;
 
 import javax.swing.JFrame;
 import javax.swing.Timer;
@@ -27,7 +26,6 @@ public class Snake implements ActionListener
    
    public Point head, cherry;
 
-   
    public static final int UP = 0, DOWN = 1, LEFT = 2, RIGHT = 3, SCALE = 10;
    
    public Random random;
